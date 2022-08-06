@@ -14,8 +14,8 @@ Data:
     The datasets generated and/or analysed during the current study are available on figshare platform with the following link: https://figshare.com/articles/dataset/Gene_Network_Variant_Dataset_mTOR_TGF_Beta_zip/19312214
     
 Platform:
-    MATLAB 2022a and LIBSVM
+    MATLAB 2022a and LIBSVM (https://www.csie.ntu.edu.tw/~cjlin/libsvm/#download)
     
 Content:
-    MATLAB scripts and mex files
+    MATLAB scripts
 
